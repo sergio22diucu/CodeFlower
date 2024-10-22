@@ -2,7 +2,7 @@ from turtle import *
 import colorsys
 
 # Agregar el texto en la cabecera
-header_text = "Te quiero amix, no seras espectadora mientras seamos ingenieras"
+header_text = "Mari, no seras espectadora mientras seamos duos"
 color("white")  # Color del texto
 penup()
 goto(-180, 250)  # Posición del texto
